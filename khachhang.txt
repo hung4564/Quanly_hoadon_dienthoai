@@ -1,0 +1,8 @@
+0195463453|12/10/2016|nguyen van d|12/4/1997|Khong co
+0195463453|12/10/2016|Khong co|0|Khong co
+0195463453|12/10/2016|nguyen van e|0|Khong co
+0123456789|12/10/2016|nguyen van b|2/3/1997|12 dai la
+0157869897|12/10/2016|Khong co|0|Khong co
+0112444668|12/10/2016|nguyen van e|0|Khong co
+0123456788|3/1/2107|nguyen van a|0|12
+|4/1/2107|nguyen van a|0|12 dai la
